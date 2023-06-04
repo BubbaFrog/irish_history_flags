@@ -1,8 +1,8 @@
 --------------------------------------------------------
--- Minetest :: Generic Flags Mod (flags)
+-- Minetest :: Irish History Flags Mod (flags)
 --
 -- See README.txt for licensing and other information.
--- Made by AwesomeDragon97 with code from Wuzzy.
+-- Made by BubbaFrog with code from AwesomeDragon97 and Wuzzy.
 --------------------------------------------------------
 
 flags = {}
